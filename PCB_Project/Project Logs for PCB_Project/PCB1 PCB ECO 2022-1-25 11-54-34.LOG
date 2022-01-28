@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=D- Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=D+ Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R21-2
+Change Component DesignItemId : Designator=RU1 Old DesignItemId=10K New DesignItemId=100k
+Change Component DesignItemId : Designator=RU2 Old DesignItemId=10K New DesignItemId=100k
+Change Component Comment : Designator=RU1 Old Comment=10K New Comment=5.1K
+Change Component Comment : Designator=RU2 Old Comment=10K New Comment=5.1K
+Added Pin To Net: NetName=GND Pin=RU1-1
+Added Pin To Net: NetName=GND Pin=RU2-2
+Added Pin To Net: NetName=NetRU1_2 Pin=RU1-2
+Added Pin To Net: NetName=NetRU1_2 Pin=USB1-B5
+Added Net: Name=NetRU1_2
+Added Pin To Net: NetName=NetRU2_1 Pin=RU2-1
+Added Pin To Net: NetName=NetRU2_1 Pin=USB1-A5
+Added Net: Name=NetRU2_1
+Added Member To Class: ClassName=ESP32ª®≈Ë Member=Component RU1 5.1K
+Added Member To Class: ClassName=ESP32ª®≈Ë Member=Component RU2 5.1K
+Added Room: Name=ESP32ª®≈Ë
